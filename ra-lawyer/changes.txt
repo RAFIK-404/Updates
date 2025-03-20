@@ -1,4 +1,1 @@
-v1.1.0:
-- Added new lawyer ranking system
-- Improved UI design
-- Fixed a bug in the case review system
+
